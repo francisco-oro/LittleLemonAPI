@@ -8,6 +8,7 @@ from .models import *
 class MenuItemsView(generics.ListCreateAPIView):
     serializer_class = MenuSerializer
     queryset = Menu.objects.all()
+    permission_classes = [permissions.IsAuthenticated]
 
 class SingleMenuItemView(generics.RetrieveUpdateAPIView, generics.DestroyAPIView):
     serializer_class = MenuSerializer
