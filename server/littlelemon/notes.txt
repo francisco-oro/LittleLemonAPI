@@ -1,0 +1,9 @@
+Superuser:
+    username = jo
+    password = 1
+delivery_crew:
+    username = yassen
+    password = table2016
+customer:
+1) username = youssef , password = table2016
+2) username = ayat , password = table2016

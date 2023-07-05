@@ -139,3 +139,13 @@ REST_FRAMEWORK = {
     'DEFAULT_AUTHENTICATION_CLASSES': ('rest_framework.authentication.TokenAuthentication', 
                                        'rest_framework.authentication.SessionAuthentication'),
 }
+
+
+#Email Config
+EMAIL_HOST = 'smtp-mail.outlook.com'
+EMAIL_HOST_USER = 'fforo2003@outlook.es'
+EMAIL_HOST_PASSWORD ='Men of running2003'
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+EMAIL_TIMEOUT = 300 # in seconds
+DEFAULT_FROM_EMAIL = 'sender name <your@djangoapp.com>'
