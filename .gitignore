@@ -1,1 +1,8 @@
-workspace/
+.hypothesis
+.idea
+
+# Virtual environments
+venv
+
+Pipfile
+Pipfile.lockworkspace/
