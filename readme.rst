@@ -8,7 +8,7 @@ LittleLemon API
    :target: https://pypi.org/project/django-defender/
    :alt: Supported Django versions
 
-``Assignment for the course: API, avaliable in the Meta Back-End Developer professional Certificate.``
+``Assignment for the course API, avaliable in the Meta Back-End Developer professional Certificate.``
 
 Django-based simple API project for the Little Lemon restaurant. 
 People with different roles is able to browse, add and edit menu items, 
