@@ -36,7 +36,7 @@ Authentication endpoints
                                                                                                                    email address provided in the request 
 /auth/users/reset_password/                                 Verified users                          POST           Sends a password recovery link to the email
                                                                                                                    provided in the request 
-/auth/users/resest_password_confirm/                        Verified users                          POST           Reset the user password. Requires uidb64, token,
+/auth/users/reset_password_confirm/                        Verified users                          POST           Reset the user password. Requires uidb64, token,
                                                                                                                    and the new_password 
 =====================================================       ===================================== ================ =================================================
 
