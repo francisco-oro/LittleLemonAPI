@@ -1,5 +1,12 @@
 LittleLemon API
 =====================
+.. image:: https://img.shields.io/pypi/pyversions/django-defender.svg
+    :alt: Supported Python versions
+    :target: https://pypi.org/project/django-defender/
+
+.. image:: https://img.shields.io/pypi/djversions/django-defender.svg
+   :target: https://pypi.org/project/django-defender/
+   :alt: Supported Django versions
 
 Django-based simple API project for the Little Lemon restaurant. 
 People with different roles is able to browse, add and edit menu items, 
