@@ -15,11 +15,12 @@ place orders, browse orders, assign delivery crew to orders and finally deliver 
 User groups
 -------------
 * Managers
-* Delivery members
+* Delivery membersdddd
 * Customers (default)
 
 Authentication endpoints 
 -------------------------
+
 
 =====================================================       ===================================== ================ =================================================
   Endpoint                                                      Role                              Method             Purpose 
