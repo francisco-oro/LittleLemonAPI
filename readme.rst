@@ -1,4 +1,4 @@
-LittleLemon API
+LittleLemon API - By Francisco Oro 🏑
 =====================
 .. image:: https://img.shields.io/pypi/pyversions/django-defender.svg
     :alt: Supported Python versions
